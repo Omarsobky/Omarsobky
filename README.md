@@ -1,5 +1,3 @@
-# Omar-Elsobky
-
 <h1 align="center">Hi, It's Omar Elsobky 👋</h1>
 
 ---
